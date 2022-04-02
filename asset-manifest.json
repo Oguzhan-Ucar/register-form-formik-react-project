@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/register-form-formik-react-project/static/css/main.073c9b0a.css",
+    "main.js": "/register-form-formik-react-project/static/js/main.760626d3.js",
+    "static/js/787.524e4aee.chunk.js": "/register-form-formik-react-project/static/js/787.524e4aee.chunk.js",
+    "index.html": "/register-form-formik-react-project/index.html",
+    "main.073c9b0a.css.map": "/register-form-formik-react-project/static/css/main.073c9b0a.css.map",
+    "main.760626d3.js.map": "/register-form-formik-react-project/static/js/main.760626d3.js.map",
+    "787.524e4aee.chunk.js.map": "/register-form-formik-react-project/static/js/787.524e4aee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.760626d3.js"
+  ]
+}
