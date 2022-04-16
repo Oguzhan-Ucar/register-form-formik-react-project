@@ -1,1 +1,5 @@
-This project is located on this page https://oguzhan-ucar.github.io/register-form-formik-react-project/
+# Register Form Formik
+
+React practise
+
+This project deployed with Github >>> https://oguzhan-ucar.github.io/register-form-formik-react-project/ 
