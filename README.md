@@ -2,4 +2,4 @@
 
 React practise
 
-This project deployed with Github >>> https://oguzhan-ucar.github.io/register-form-formik-react-project/ 
+This project deployed with github >>> https://oguzhan-ucar.github.io/register-form-formik-react-project/ 
